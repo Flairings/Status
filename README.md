@@ -11,3 +11,6 @@ Third download the files from the git repository, copy them to a folder, and ope
 go the the discord developer page and click the tab named "OAuth2" and copy the "CLIENT ID" into the "client.id" field in the "config.json"
 change the "large_image" field to the name of the image you uploaded and change the other configuration fields to your choosing
 run the "presence.py" script and wait 15 seconds for your discord status to enable.
+
+
+P.S. if you find a way to get the same thing to work on a vps please reply on the issues tab

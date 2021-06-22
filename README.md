@@ -1,0 +1,2 @@
+# Status
+Advanced discord status

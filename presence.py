@@ -12,7 +12,6 @@ with open("config.json", "r") as config:
 
     client_id = config.get("client.id")
 
-    details = config.get("details")
     state = config.get("state")
     large_image = config.get("large_image")
 
@@ -72,4 +71,3 @@ while True:
     print("")
     print(f"    {color}refresh time: {Fore.LIGHTWHITE_EX}{refresh_time}")
     print(f"    {color}state: {Fore.LIGHTWHITE_EX}{state}")
-    print(f"    {color}details: {Fore.LIGHTWHITE_EX}{details}")
